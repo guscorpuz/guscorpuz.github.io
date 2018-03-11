@@ -1,0 +1,32 @@
+body {
+    width: 100%;
+    background-color:rgb(15, 63, 49);
+    margin: 0 auto;
+    
+}
+
+nav{
+    background-color: palegreen;
+    width: 135px;
+    display: inline-block;
+    font-size: 20px;
+}
+
+img{
+    height: 300px;
+    width: 300px
+}
+
+header{
+    background-color: saddlebrown;
+    padding: 50px;
+    font-size: 20px;
+    display: block;
+}
+
+#myID{
+    background-color: darkolivegreen;
+    border: 2px solid red;
+    width: 200px;
+}
+
